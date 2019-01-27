@@ -2,6 +2,8 @@
 
 A 💡 random quote machine 💡 built with React as part of the FreeCodeCamp Front-end certification. The specification page can be found here: [random Quote Machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine/).
 
+![Random Quote machine presentation](presentation-gif.gif)
+
 ---
 
 ## Installation
