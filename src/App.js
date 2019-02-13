@@ -72,7 +72,7 @@ class App extends Component {
       author = this.state.activeQuote.author;
     } else {
       title = 'Be Inspired';
-      author = ''
+      author = 'Your inner child'
     }
 
     return (
